@@ -1,8 +1,8 @@
-## Made my own class 'star2.py' as I couldn't make the star.py do anything I wanted it to. 
+## Made my own class 'star2.py' as I couldn't make the star.py do anything I wanted it to. Haven't done anything with the pwm as I didn't think it looked very good.
 
-*'star2.py' has a number of patterns already defined.
+* 'star2.py' has a number of patterns already defined.
 
-*'star2test.py' runs though each of the patterns.
+* 'star2test.py' runs though each of the patterns.
 
 That's all for now, 'till I can be bothered to combine them in a nice order.
 
