@@ -1,3 +1,15 @@
+## Made my own class 'star2.py' as I couldn't make the star.py do anything I wanted it to. 
+
+*'star2.py' has a number of patterns already defined.
+
+*'star2test.py' runs though each of the patterns.
+
+That's all for now, 'till I can be bothered to combine them in a nice order.
+
+
+Original modmypi README Below
+
+
 # Programmable Christmas Tree Star
 ![banner](https://github.com/modmypi/Programmable-Christmas-Star/blob/master/github_star.png)
 
